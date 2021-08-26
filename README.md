@@ -1,5 +1,5 @@
 ### Hi there 👋
-#### My name is Marco Antônio and i'm developer.
+#### My name is Marco Antônio and i'm a developer.
 
 <!-- ![Marco Antônio's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcoant08&show_icons=true&theme=radical) -->
 
